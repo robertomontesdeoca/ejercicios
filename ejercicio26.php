@@ -5,6 +5,11 @@
     private $edad;//se accede solo mediante los metodos y solo desde la clase que lo definio 
     protected $altura;//se accede solo mediante los metodos y solo desde la clase que lo definio y las heredadas 
 
+    //Utilizando contructores 
+    function __construct($nuevoNombre){
+      $this->nombre=$nuevoNombre;
+    }
+    
     public function asignarNombre($nuevoNombre){//acciones o metodos
     $this->nombre=$nuevoNombre;
     }
@@ -22,12 +27,12 @@
     }
   }
   
-  $objAlumno=new persona(null);//Instacia o creacion de un objeto 
-  $objAlumno2=new persona(null);
-  $objAlumno->asignarNombre("Roberto"."<br>");
-  $objAlumno2->asignarNombre("Jerson"."<br>");
+  $objAlumno=new persona("Jose Ramon el dueño del camion");//Contructor para  creacion de un objeto 
+  //$objAlumno2=new persona();
+  //$objAlumno->asignarNombre("Roberto"."<br>");
+ // $objAlumno2->asignarNombre("Jerson"."<br>");
   echo $objAlumno->nombre;
   echo $objAlumno->asignarEdad(32);
   echo $objAlumno->asignarAltura(1.79);
-  echo $objAlumno2->imprimirNombre();
+  echo $objAlumno->imprimirNombre();
   ?>
