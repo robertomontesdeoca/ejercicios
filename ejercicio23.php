@@ -1,5 +1,6 @@
 <?php
     $frutas=array("fresa","Pera","manzana");
+    
     array_push($frutas, "uva", "arándano");
     print_r($frutas);
     foreach($frutas as $indice=>$valor){

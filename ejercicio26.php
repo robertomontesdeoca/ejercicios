@@ -27,12 +27,12 @@
     }
   }
   
-  $objAlumno=new persona("Jose Ramon el dueño del camion");//Contructor para  creacion de un objeto 
+  $objAlumno=new persona("Jose Ramon el dueño del camion"."<br>");//Contructor para  creacion de un objeto 
   //$objAlumno2=new persona();
   //$objAlumno->asignarNombre("Roberto"."<br>");
  // $objAlumno2->asignarNombre("Jerson"."<br>");
   echo $objAlumno->nombre;
-  echo $objAlumno->asignarEdad(32);
+  echo $objAlumno->asignarEdad(32)."<br>";
   echo $objAlumno->asignarAltura(1.79);
   echo $objAlumno->imprimirNombre();
   ?>
