@@ -12,9 +12,11 @@ try{
   
     $sql="INSERT INTO `fotos` (`id`, `nombre`, `ruta`) VALUES (NULL, 'Jugando con la programacion ', 'foto.jpg')";
    
+    //Metodo de PDO
    $conexion->exec($sql);
    
     echo" Conexion establecidad";
+
 }catch(PDOException $error){
     echo" Conexion erronea".$error;
 }
