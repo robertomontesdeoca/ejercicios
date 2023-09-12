@@ -1,10 +1,10 @@
-<?php include("cabecera.php");?>
+<?php include("<includes/cabecera.php");?>
 
 <?php
 
 if($_POST){
     print_r($_POST);
-    $nombre=$_POST['nombre'];
+   // $nombre=$_POST['nombre'];
 //$objConexion =new conexion();
 //$sql="INSERT INTO `proyectos` (`id`, `nombre`, `imagen`, `descripcion`) VALUES ('', '.$nombre.', 'imagen.jpg', 'Proyecto de hace mucho tiempo ')";
 //$objConexion->ejecutar($sql);
@@ -66,4 +66,4 @@ print_r($resultado);
     </div>
 </div>
 
-<?php include("pie.php");?>
+<?php include("includes/pie.php");?>

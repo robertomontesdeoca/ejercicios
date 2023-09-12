@@ -1,0 +1,47 @@
+[33mcommit 251f1e4999ae8d2c9711c66cf9389de57b474b90[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: robertomontesdeoca <diosmerimontesdeoca@gmail.com>
+Date:   Fri Sep 1 04:46:05 2023 -0400
+
+    portafolio con botenes basicos
+
+[33mcommit 322fadb252c1baa8ba19d3f01034261d86a171b8[m
+Author: robertomontesdeoca <diosmerimontesdeoca@gmail.com>
+Date:   Mon Aug 28 17:14:53 2023 -0400
+
+    ejercicios del 36-39 se agrega include y requere , se escribe y leen archivos
+
+[33mcommit 0e70568c8947d1bde482f63cfd127eeb658419b5[m
+Author: robertomontesdeoca <diosmerimontesdeoca@gmail.com>
+Date:   Wed Aug 23 18:01:48 2023 -0400
+
+    ejercicios del 30-31 cambios leves
+
+[33mcommit 6d399eaf7ebe5766b95656362373c3c9d54590cf[m
+Author: robertomontesdeoca <diosmerimontesdeoca@gmail.com>
+Date:   Tue Aug 8 05:25:24 2023 -0400
+
+    ejercicios del 27 al 31 incluye codigo html , envio de datos en el formulario
+
+[33mcommit 308fd7bc44c9c9e9ac4089a56691c15c80affc45[m
+Author: robertomontesdeoca <diosmerimontesdeoca@gmail.com>
+Date:   Fri Aug 4 03:14:09 2023 -0400
+
+    ejercicios del 24 al 27 incluye herencia, contructores , metodos estaticos
+
+[33mcommit 1763c025a00257b487db64a958b010e0fa179476[m
+Author: robertomontesdeoca <diosmerimontesdeoca@gmail.com>
+Date:   Fri Aug 4 00:22:16 2023 -0400
+
+    ejercicios del 19 al 23 incluye funciones de arreglo como array_push
+
+[33mcommit cd801d27efe31591753b8cb3b499901deaf03ee5[m
+Author: robertomontesdeoca <diosmerimontesdeoca@gmail.com>
+Date:   Tue Aug 1 18:33:20 2023 -0400
+
+    ejercicios del 7 al 18 incluye ciclos
+
+[33mcommit e0f6d7c03834c1607e353bfed61cd3f5ba140731[m
+Author: robertomontesdeoca <diosmerimontesdeoca@gmail.com>
+Date:   Thu Jul 27 13:25:25 2023 -0400
+
+    ejercicios del 1 al 6 inclulle tipos y get y post
